@@ -1,0 +1,157 @@
+/* About Section */
+.about-section {
+  background-color: #f9f9f9;
+  padding: 60px 20px;
+  text-align: center;
+  color: #333;
+}
+
+.about-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Features Section */
+.features-section {
+  background-color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.features-section h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.feature {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 10px auto;
+  max-width: 600px;
+}
+
+.feature h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Logout Section */
+.logout-section {
+  background-color: #f9f9f9;
+  padding: 60px 20px;
+  text-align: center;
+  color: #333;
+}
+
+.logout-section h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.logout-section p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.login-link {
+  color: #28a745;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.login-link:hover {
+  text-decoration: underline;
+}
+
+/* Contact Section */
+.contact-section {
+  background-color: #f0f0f0;
+  padding: 60px 20px;
+  text-align: center;
+  color: #333;
+}
+
+.contact-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.contact-section p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.contact-section ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: 18px;
+}
+
+.contact-section ul li {
+  margin: 10px 0;
+}
+
+/* Login Section */
+.login-section {
+  background-color: #fff;
+  padding: 60px 20px;
+  text-align: center;
+  color: #333;
+}
+
+.login-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.login-form {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.login-button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.login-button:hover {
+  background-color: #218838;
+}
